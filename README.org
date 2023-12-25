@@ -8,3 +8,9 @@
 + Sound, brightness, clipboard and screenshot utilities pre-configured out-of-box.
 + Rofi launcher also configured
 + i3status also riced without tampering it's functionality.
+
+## Setup
++ Just copy both folders into "~/.config" folder and you are good to go.
+
+## Dependencies 
++ To be updated....
