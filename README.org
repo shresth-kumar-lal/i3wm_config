@@ -9,8 +9,8 @@
 + Rofi launcher also configured
 + i3status also riced without tampering it's functionality.
 
-## Setup
+** Setup
 + Just copy both folders into "~/.config" folder and you are good to go.
 
-## Dependencies 
+** Dependencies 
 + To be updated....
