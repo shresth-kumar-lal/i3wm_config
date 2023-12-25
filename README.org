@@ -1,0 +1,10 @@
+* Simple, fast and productive i3wm setup
+
++ As close to base i3wm as possible.
++ Proper vim keybindings.
++ Picom as default compositor.
++ Very resource efficient.
++ Screen-tearfree enabled by default
++ Sound, brightness, clipboard and screenshot utilities pre-configured out-of-box.
++ Rofi launcher also configured
++ i3status also riced without tampering it's functionality.
