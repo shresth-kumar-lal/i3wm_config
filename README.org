@@ -12,5 +12,19 @@
 ** Setup
 + Just copy both folders into "~/.config" folder and you are good to go.
 
-** Dependencies 
-+ To be updated....
+
+## Dependencies 
++ i3wm (obviously!!)
++ Picom (compositor)
++ Font Fira code nerd font & Deja vu sans mono
++ xss-lock (lock screen)
++ nm-applet (network manager)
++ pactl (audio control)
++ i3lock (lock screen)
++ brightnessctl (systemd)
++ rofi (application launcher)
++ dmenu (fallback application launcher)
++ greenclip (clipboard manager)
++ i3bar 
++ maim (screenshot utility)
++ xclip
